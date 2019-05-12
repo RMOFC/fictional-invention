@@ -1,0 +1,4 @@
+﻿namespace Teste {
+    class ClassT{
+    }
+}
